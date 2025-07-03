@@ -1,0 +1,7 @@
+{
+  "name": "firebase-notifications",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
